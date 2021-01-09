@@ -1,9 +1,7 @@
 # Motivation of this document
 Hi 👋 nice to meet you.
 
-This document is mostly relevant to my direct reports but may be useful to others too.
-
-It has two main reasons to exist:
+This document has two main reasons to exist:
 1) The creation has helped me to identify and refine my thoughts and values.
 2) It helps you to understand me better and help us to work together.
 
