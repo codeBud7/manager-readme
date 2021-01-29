@@ -7,7 +7,7 @@ This document has two main reasons to exist:
 
 # 👨🏻‍💻 My role
 As an Engineering Manager, I am here to ensure our team is happy, productive and focused on what matters the most for our business.
-* I'm helping you to reach your goals, grow your skills and advance your career.
+* I'm helping you to reach your goals, grow your skills and advance your career following the GROWTH mindset.
 * I'm making sure that we have what we need in order to deliver our commitments by removing roadblocks and aligning priorities. 
 * I'm an Engineer as well and try to support our developments as often as I can.
 
@@ -21,7 +21,8 @@ As an Engineering Manager, I am here to ensure our team is happy, productive and
 # 📲 My Availability
 TLDR; Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk.
 
-Heard a rumour? Need clarification on something? Blocked? I’d love to hear as soon as possible. Come by my desk, stop me in the hall, shoot me a Slack message, we don’t need to wait for our next scheduled 1:1.
+Heard a rumour? Need clarification on something? Blocked? 
+I’d love to hear as soon as possible. Come by my desk, stop me in the hall, shoot me a Slack message, we don’t need to wait for our next scheduled 1:1.
 
 Feel free to put something in my calendar, don’t feel like you need to ask first.
 Is my calendar full? Send me a message and I’ll very likely be able to move something around.
@@ -43,40 +44,35 @@ You feel safe debating with me. I find that ideas improve by being examined from
 # 💡 How can I help you
 **Provide context.** Most of my day is spent collecting, filtering and sharing context/information from across other projects, domains, and product lines. I’ll try to push information to you as much as I can but feel free to ask about anything else.
 
-**Cheer.** I will celebrate your successes. If you're not a person who self-promotes, please let me do it for you. Tell me when things go well, share the things which make you proud, and I'll cheer/share appropriately.
+**Cheer.** Do good and talk about it. If you're not a person who self-promotes, please let me do it for you. Tell me when things go well, share the things which make you proud, and I'll cheer/share appropriately.
 
-**Firefight.** If my favourite opening line is "I could use a hand with...", my second favourite is "I screwed up: ...". A mistake, if shared, becomes a challenge; if hidden, becomes a failure.
+**Sponsor.** Find growth opportunties to show and grow your skills.
 
 **Other.** Please let me know how else I can help. 
 
 # 💪 How you can help me
-Do amazing work. This is the expectation. Let me know if there is something preventing you from accomplishing this.
+**Do amazing work.** 
+This is the expectation. Let me know if there is something preventing you from accomplishing this.
 
-Disagree with me. The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos. I’ll challenge your ideas with the goal of coming to the best possible solution, I hope you’ll challenge mine.
+**Disagree with me.** 
+The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos. I’ll challenge your ideas with the goal of coming to the best possible solution, I hope you’ll challenge mine.
 
-Tell me when I screw up. This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again.
+**Tell me when I screw up.** 
+This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again.
 
-Communicate. One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
+**Communicate.** 
+One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
 
 # 🛠 Your development
-Your career is yours. You know best how you’d like to grow and in what areas. I can provide feedback and an outside perspective.
+**Your career is yours.** You know best how you’d like to grow and in what areas. I can provide feedback and an outside perspective.
 
-I’ll do my best to provide growth and learning opportunities, it’ll be up to you to seize them. Let’s work together on this.
+I’ll do my best to sponsor growth and learning opportunities, it’ll be up to you to seize them. Let’s work together on this.
 
 At the end of the day, it is your career. We set your goals and I can help you achieve them.
 
-# 👨🏻‍🌾 Feedback
-Feedback is critical to both of our successes. Three dimensions are required for people to continue to give you feedback:
-Safety - Unlikelihood of being punished for giving feedback. Should be high
-Effort - The amount of work in order to give feedback. Should be low
-Benefit - How likely is it that giving you feedback will materially impact your behavior? Should be high
-
-Let me know if I don't do well on any of these three dimensions.
-
 # 🔁 1:1s
-I prefer to spent at least 45 minutes per week directly with you. Every week? Yes. 
-
-It's important for me to constantly stay in touch and get a better understanding about how you are doing and if I can support.
+I prefer to have at least one conversation per week directly with you.
+It's important for me to constantly stay in touch and get a better understanding about how you are doing and how I can support.
 
 This are the subjects I'm intersted in but don't see your 1:1 as status report. Your topics go first.
 
