@@ -76,11 +76,11 @@ It's important for me to constantly stay in touch and get a better understanding
 
 This are the subjects I'm intersted in but don't see your 1:1 as status report. Your topics go first.
 
-*Looking around.* Tell me what’s on your mind. How are you doing since the last time we met? Do you have any concerns or frustrations you want to share?
+**Looking around.** Tell me what’s on your mind. How are you doing since the last time we met? Do you have any concerns or frustrations you want to share?
 
-*Looking back.* Are you engaged with your work and the company? Do you have an opportunity to do your best work here? Do you get appropriate recognition for good work? 
+**Looking back.** Are you engaged with your work and the company? Do you have an opportunity to do your best work here? Do you get appropriate recognition for good work? 
 
-*Looking forward.* Is there anything blocking you? What’s preventing you from reaching your goals?
+**Looking forward.** Is there anything blocking you? What’s preventing you from reaching your goals?
 
 Feel free to come with a topic you’d like to discuss. I’d love it if you spent a few minutes beforehand preparing so that we can get the most of our time.
 
