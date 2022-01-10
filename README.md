@@ -71,8 +71,9 @@ I’ll do my best to sponsor growth and learning opportunities, it’ll be up to
 At the end of the day, it is your career. We set your goals and I can help you achieve them.
 
 # 🔁 1:1s
-I prefer to have at least one conversation per week directly with you.
+I prefer to have at least two 1:1 conversations per month with you.
 It's important for me to constantly stay in touch and get a better understanding about how you are doing and how I can support.
+The scheduled meeting is not a blocker for us to meet more often if a project requires it or if there's much to talk about.
 
 This are the subjects I'm intersted in but don't see your 1:1 as status report. Your topics go first.
 
