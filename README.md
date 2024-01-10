@@ -22,7 +22,7 @@ As an Engineering Manager, I am here to ensure our team is happy, productive and
 TLDR; Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk.
 
 Heard a rumour? Need clarification on something? Blocked? 
-I’d love to hear as soon as possible. Come by my desk, stop me in the hall, shoot me a Slack message, we don’t need to wait for our next scheduled 1:1.
+I’d love to hear as soon as possible. Come by my (virtual) desk, shoot me a Slack message, we don’t need to wait for our next scheduled 1:1.
 
 Feel free to put something in my calendar, don’t feel like you need to ask first.
 Is my calendar full? Send me a message and I’ll very likely be able to move something around.
@@ -71,7 +71,7 @@ I’ll do my best to sponsor growth and learning opportunities, it’ll be up to
 At the end of the day, it is your career. We set your goals and I can help you achieve them.
 
 # 🔁 1:1s
-I prefer to have at least two 1:1 conversations per month with you.
+I prefer to have weekly 1:1 conversations with you.
 It's important for me to constantly stay in touch and get a better understanding about how you are doing and how I can support.
 The scheduled meeting is not a blocker for us to meet more often if a project requires it or if there's much to talk about.
 
