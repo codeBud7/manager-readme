@@ -8,7 +8,7 @@ This document has two main reasons to exist:
 # 👨🏻‍💻 My role
 As an Engineering Manager, I am here to ensure our team is happy, productive and focused on what matters the most for our business.
 * I'm helping you to reach your goals, grow your skills and advance your career following the GROWTH mindset.
-* I'm making sure that we have what we need in order to deliver our commitments by removing roadblocks and aligning priorities. 
+* I'm making sure that we have what we need in order to deliver our commitments by removing roadblocks (or enabling you to do that) and aligning priorities. 
 * I'm an Engineer as well and try to support our developments as often as I can.
 
 # 🙌🏻 What do I value most?
